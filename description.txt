@@ -1,0 +1,10 @@
+ The chat app has been made using
+1> express js
+2> javascript
+3> css
+4> react js
+5> socket.io
+
+The first interface we see is the joining page where a dialog box appear to insert the name and click on join. 
+After the joining we can see our name on top left corner and at bottom space for typing message and a send button.
+I have used socket.io for too and fro connection between the client and server and code can be found in server. js
